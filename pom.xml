@@ -4,7 +4,7 @@
 
     <groupId>org.ea</groupId>
     <artifactId>test-module</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -20,7 +20,7 @@
         <connection>scm:git:git@github.com:kalaspuffar/sonatype-test-module.git</connection>
         <developerConnection>scm:git:git@github.com:kalaspuffar/sonatype-test-module.git</developerConnection>
         <url>https://github.com/kalaspuffar/sonatype-test-module</url>
-        <tag>0.0.2</tag>
+        <tag>test-module-0.0.1</tag>
     </scm>
 
     <distributionManagement>
