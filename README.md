@@ -13,7 +13,7 @@ Lastly we add information about the default mirror, this is specifying the mirro
   <servers>
     <server>
       <id>nexus-releases</id>
-      <username>[release-username]</username>
+      <username>[release-username]</username><
       <password>[release-password]</password>
     </server>
     <server>
